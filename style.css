@@ -10,3 +10,15 @@ a {
 img {
   border-radius: 100%;
 }
+
+body {
+	background-image: url("https://finalprojectmapps.000webhostapp.com/greg-becker-33629.jpg");
+
+	background-repeat: no-repeat;
+
+	background-size: cover;
+
+	float: left;
+
+	width: auto;
+}
