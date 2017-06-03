@@ -1,8 +1,8 @@
-* {
+h1, h2 {
   font-family: 'Georgia', 'Times', serif;
 }
 
-a {
+p {
   color: SeaGreen;
   text-decoration: none;
 }
@@ -11,7 +11,7 @@ img {
   border-radius: 100%;
 }
 
-.container{
+.container {
 	background-image: url("https://finalprojectmapps.000webhostapp.com/greg-becker-33629.jpg");
 
 	background-repeat: no-repeat;
