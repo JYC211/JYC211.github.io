@@ -9,3 +9,19 @@ img {
 .container {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
+
+h1 {
+  color : FireBrick;
+}
+
+img {
+  border-radius: 100%;
+}
+
+body {
+	background-image: url("https://finalprojectmapps.000webhostapp.com/greg-becker-33629.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+	width: auto;
+}
