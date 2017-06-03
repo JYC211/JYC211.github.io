@@ -1,10 +1,9 @@
-h1, h2 {
-  font-family: 'Georgia', 'Times', serif;
+h1 {
+  color : FireBrick;
 }
 
 p {
-  color: SeaGreen;
-  text-decoration: none;
+  font-size: 18px;
 }
 
 img {
