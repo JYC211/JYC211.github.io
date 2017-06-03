@@ -1,9 +1,5 @@
-* {
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
-}
-
 p {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 img {
@@ -11,13 +7,5 @@ img {
 }
 
 .container {
-	background-image: url("https://finalprojectmapps.000webhostapp.com/greg-becker-33629.jpg");
-
-	background-repeat: no-repeat;
-
-	background-size: cover;
-
-	float: left;
-
-	width: auto;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
