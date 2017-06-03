@@ -6,8 +6,8 @@ img {
   border-radius: 100%;
 }
 
-.container {
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
+.container .jumbotron {
+	font-family: 'Open Sans', sans-serif;;
 }
 
 body {
