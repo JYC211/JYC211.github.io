@@ -1288,7 +1288,6 @@ h6,
 }
 p {
   margin: 0 0 10px;
-  text-align: center;
 }
 .lead {
   margin-bottom: 20px;
@@ -4962,6 +4961,7 @@ a.badge:focus {
   margin-bottom: 30px;
   color: inherit;
   background-color: #eee;
+  text-align: center;
 }
 .jumbotron h1,
 .jumbotron .h1 {
