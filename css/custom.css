@@ -25,9 +25,11 @@ p {
 
 .jumbotron {
 	background: #2D85E3;
+	background-image: url(https://finalprojectmapps.000webhostapp.com/greg-becker-33629.jpg);
 	color: white;
 	text-align: center;
 }
+
 .jumbotron p {
 	color: white;
 	font-size: 26px;
