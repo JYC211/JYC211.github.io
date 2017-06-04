@@ -2,6 +2,10 @@
 	margin-bottom: 0;
 }
 
+.title {
+	font-family: 'Open Sans', sans-serif;
+}
+
 body {
 	background: #465053;
 	color: #2D85E3;
