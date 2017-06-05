@@ -1,6 +1,7 @@
 .navbar {
 	margin-bottom: 0;
 	color: #2F54D4;
+	background-color: rgba(22, 96, 189, 0.31);
 }
 
 .navbar-brand {
@@ -11,14 +12,13 @@
 	color: #1a1a1a;
 }
 
-
 .container {
 	font-family: 'Open Sans', sans-serif;
 	color: #66fcf1;
 }
 
 body {
-	background: #0b0c10;
+	background: #060404;
 	color: #2D85E3;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -53,6 +53,6 @@ p {
 	font-size:20px;
 	margin-bottom:00px;
 	padding-top:20px;
-	background-color: #673AB7;
+	background-color: rgba(22, 96, 189, 0.31);
 	color: #ffffff;
 }
