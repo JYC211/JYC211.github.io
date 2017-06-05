@@ -44,3 +44,11 @@ p {
 	color: white;
 	font-size: 26px;
 }
+
+.footer {
+	bottom: 0;
+	height: 50px;
+	font-size: 18px;
+	margin-bottom: 00px;
+	padding-top: 20px;
+}
