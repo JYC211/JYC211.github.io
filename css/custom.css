@@ -39,6 +39,7 @@ p {
 	color: white;
 	text-align: center;
 	height: 100vh;
+	margin-bottom: 0px;
 }
 
 .jumbotron p {
@@ -47,7 +48,7 @@ p {
 }
 
 .footer {
-	position: absolute;
+	position: fixed;
 	bottom: 0;
 	width: 100%;
 	height: 60px;
