@@ -38,6 +38,7 @@ p {
 	background-image: url("hut1920.jpg");
 	color: white;
 	text-align: center;
+	height: 100vh;
 }
 
 .jumbotron p {
