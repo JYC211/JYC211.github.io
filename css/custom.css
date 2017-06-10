@@ -38,15 +38,16 @@ p {
 .jumbotron {
 	background: #2D85E3;
 	background-image: url("hut1920.jpg");
-	color: white;
+	color: #0e0e0e;
 	text-align: center;
 	height: 100vh;
 	margin-bottom: 0px;
 }
 
 .jumbotron p {
-	color: white;
+	color: #0e0e0e;
 	font-size: 26px;
+	font-weight: bolder;
 }
 
 .footer {
@@ -59,4 +60,8 @@ p {
 	padding-top:0px;
 	background-color: rgba(22, 96, 189, 0.31);
 	color: #ffffff;
+}
+
+.col-md-6 {
+	padding-top: 150px;
 }
