@@ -17,6 +17,11 @@
 	color: rgb(0,24,72);
 }
 
+.resumecontainer{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
 body {
 	background: #060404;
 	color: #2D85E3;
