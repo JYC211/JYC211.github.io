@@ -17,6 +17,12 @@
 	color: rgb(0,24,72);
 }
 
+.containerres {
+	font-family: 'Open Sans', sans-serif;
+	color: rgb(0,24,72);
+	padding-top: 25px;
+}
+
 .resumecontainer{
 	position: fixed;
 	bottom: 0;
