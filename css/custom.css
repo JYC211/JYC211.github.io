@@ -17,7 +17,7 @@
 	color: rgb(0,24,72);
 }
 
-.containerres {
+.container-resume {
 	font-family: 'Open Sans', sans-serif;
 	color: rgb(0,24,72);
 	padding-top: 50px;
@@ -88,4 +88,8 @@ p {
 
 .col-md-6 {
 	padding-top: 0px;
+}
+
+.col-md-4{
+	color: #000000;
 }
