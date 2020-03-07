@@ -27,8 +27,8 @@ function startGame() {
 var myGameArea = {
     canvas : document.createElement("canvas"),
     start : function() {
-        this.canvas.width = 480;
-        this.canvas.height = 270;
+        this.canvas.width = 800;
+        this.canvas.height = 600;
         this.context = this.canvas.getContext("2d");
         document.body.insertBefore(this.canvas, document.body.childNodes[0]);
         this.frameNo = 0;
@@ -100,12 +100,12 @@ function updateGameArea() {
     }
     myGameArea.clear();
     myGameArea.frameNo += 1;
-    if (myGameArea.frameNo == 1 || everyinterval(150)) {
+    if (myGameArea.frameNo == 1 || everyinterval(50)) {
         x = myGameArea.canvas.width;
-        minHeight = 20;
-        maxHeight = 200;
+        minHeight = 200;
+        maxHeight = 300;
         height = Math.floor(Math.random()*(maxHeight-minHeight+1)+minHeight);
-        minGap = 50;
+        minGap = 25;
         maxGap = 200;
         gap = Math.floor(Math.random()*(maxGap-minGap+1)+minGap);
         myObstacles.push(new component(10, height, "green", x, 0));
@@ -131,7 +131,7 @@ function accelerate(n) {
 }
 </script>
 <br>
-<button onmousedown="accelerate(1)" onmouseup="accelerate(-1)">ACCELERATE</button>
+<button onmousedown="accelerate(-0.66)" onmouseup="accelerate(0.3)">ACCELERATE</button>
 <p>Use the ACCELERATE button to stay in the air</p>
 <p>How long can you stay alive?</p>
 </body>
